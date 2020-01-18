@@ -1,6 +1,9 @@
-# viia
+# viia (proyecto en vue js desarrollado con quasar framework)
 
 viia
+
+## Install framework 
+npm install -g @quasar/cli
 
 ## Install the dependencies
 ```bash
