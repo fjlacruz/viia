@@ -1,6 +1,6 @@
 # viia
 
-inventario ti
+viia
 
 ## Install the dependencies
 ```bash
